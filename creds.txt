@@ -1,2 +1,0 @@
-username: sso_global1
-password: agykjk!ghhh$$h
